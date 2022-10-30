@@ -1,6 +1,6 @@
 # Dino-Hack
 ## Do you want to be the highest scorer of the chrome dino game???
-    The best wat to do that is to remove the game over functionality of the game. In other words, jut have a null value when the game is over.
+    The best way to do that is to remove the game over functionality of the game. In other words, jut have a null value when the game is over.
     this ensures that you keep on playing.
     Everytime you hit something there is nothing left to do so the dino continues till the end.
 ## Procedure
